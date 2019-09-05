@@ -1,5 +1,4 @@
 #Visual Studio files
-*.o
 *.d
 *.so
 *.[Oo]bj
